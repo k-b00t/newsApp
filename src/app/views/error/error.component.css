@@ -108,9 +108,10 @@
   }
 
   .notfound .notfound-search>button:focus {
-    border-color: none;
+    border: none;
     outline: none;
   }
+  
   .notfound .notfound-search>button>span {
     width: 15px;
     height: 15px;
