@@ -2,9 +2,9 @@
 
 This is a PoC made by a Full Stack Web Development student. It is an example of using newsapi public api. It is basically an online news app.
 
-![]()
+![](https://github.com/k-b00t/newsApp/tree/master/src/assets/Screenshoot.png)
 
-[Live Demo here]()
+[Live Demo here](https://k-b00t.github.io/newsApp/)
 
 ## How to use:
 
@@ -36,4 +36,4 @@ This is a PoC made by a Full Stack Web Development student. It is an example of 
 
 ## Copyright y license
 
-[The license is MIT type, you can check it here]()
+[The license is MIT type, you can check it here](https://github.com/k-b00t/newsApp/blob/master/LICENSE.txt)
