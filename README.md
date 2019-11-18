@@ -1,5 +1,4 @@
-# BeatsDump
-
+# NewsApp
 This is a PoC made by a Full Stack Web Development student. It is an example of using newsapi public api. It is basically an online news app.
 
 ![](https://github.com/k-b00t/newsApp/blob/master/src/assets/Screenshoot.png)
